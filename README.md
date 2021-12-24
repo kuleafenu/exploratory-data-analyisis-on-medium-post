@@ -45,3 +45,10 @@ pip install nltk
 ```
 
 3. Open the `main.ipynb` and run the cells.
+
+# 🛡️ License
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+
+# 🙏 Support
+
+We all need support and motivation. Please give this project a ⭐️ to encourage and show that you liked it. Don't forget to leave a star ⭐️ before you move away.
