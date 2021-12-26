@@ -1,3 +1,4 @@
+Liked it? Please give a ⭐️ to build this 💪 stronger.
 # 👋 Introduction
 <p align="center">
     <a href="https://tryshape.vercel.app" target="blank"/>
